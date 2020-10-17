@@ -1,3 +1,12 @@
 .luxbackground{
-    background-color: gray;
-}
+    background-color: gray;}
+body{
+    background-color: #ecddec;}
+    .carousel-inner {
+        max-height: 40rem!important;
+    }
+    
+    .carousel-item-next, .carousel-item-prev, .carousel-item.active {
+        transition: transform 1.8s ease;
+    }
+
