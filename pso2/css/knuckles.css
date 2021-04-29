@@ -1,5 +1,5 @@
 #fighter-background{
-    background-image:url(../artwork/fighter-background.jpg);
+    background-image:url(/artwork/fighter-background.jpg);
     min-height: 450px;
     background-size: cover;
     background-attachment: fixed;
