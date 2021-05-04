@@ -9,4 +9,10 @@ body{
     .carousel-item-next, .carousel-item-prev, .carousel-item.active {
         transition: transform 1.8s ease;
     }
+    .text-pink {
+        color:#e83e8c
+    }
+    .text-red {
+        color:#dc3545
+    }
 
